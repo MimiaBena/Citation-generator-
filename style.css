@@ -1,6 +1,11 @@
+body{
+    
+    background-image: url(photo.jpg);
+}
+
 .container{
     max-width: 480px;
-    background: pink;
+    
    margin-top: 50px;  
 }
 h1{
@@ -12,9 +17,9 @@ blockquote {
 	padding: 20px;
 	font-family: 'Caveat', cursive;
 	font-size: 28px;
-	background-color: oldlace;
-	border: 2px solid #000;
-	border-radius: 10px;
+	background-color: pink;
+	border: 2px solid weight;
+    border-radius: 10px;
 }
 .blockquote{
     height: auto;
