@@ -1,0 +1,30 @@
+.container{
+    background: pink;
+    margin: 480px;  
+}
+h1{
+    margin: 15px 0;
+}
+
+blockquote {
+	margin-bottom: 25px;
+	padding: 20px;
+	font-family: 'Caveat', cursive;
+	font-size: 28px;
+	background-color: oldlace;
+	border: 2px solid #000;
+	border-radius: 10px;
+}
+
+footer {
+	padding-top: 50px;
+    position: relative;
+    
+}
+
+.btn {
+	width: 40%;
+	height: 35px;
+	margin: 0 10px;
+	font-size: 18px;
+}
