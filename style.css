@@ -1,6 +1,7 @@
 .container{
+    max-width: 480px;
     background: pink;
-    margin: 480px;  
+   margin-top: 50px;  
 }
 h1{
     margin: 15px 0;
@@ -15,7 +16,9 @@ blockquote {
 	border: 2px solid #000;
 	border-radius: 10px;
 }
-
+.blockquote{
+    height: auto;
+}
 footer {
 	padding-top: 50px;
     position: relative;
